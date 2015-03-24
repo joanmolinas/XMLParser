@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mon>
+	<pais codi="FRA">
+		<nom>França</nom>
+		<ciutat>
+			<nom>París</nom>
+			<poblacio>2100000</poblacio>
+		</ciutat>
+		<ciutat>
+			<nom>Estrasburg</nom>
+			<poblacio>270000</poblacio>
+		</ciutat>
+	</pais> 
+	<pais codi="AUS">
+		<nom>Austràlia</nom>
+		<ciutat>
+			<nom>Brisbane</nom>
+			<poblacio>2200000</poblacio>
+		</ciutat>
+		<ciutat>
+			<nom>Adelaide</nom>
+			<poblacio>1220000</poblacio>
+		</ciutat>
+		<ciutat>
+			<nom>Sydney</nom>
+			<poblacio>4600000</poblacio>
+		</ciutat>
+	</pais>
+</mon>
